@@ -1,0 +1,15 @@
+.title-current{color:#ffc107;}
+.title-progress:hover{cursor:pointer; color:#ffc107}
+.fa-chevron-right{color:#bfbfbf; font-size:25px; font-weight:501; vertical-align:text-top; margin-top:5px}
+.cart-container{text-align: center;}
+.cart-image{background-color:#ffc107; border-radius:50px; width:300px; height:300px; margin-left: 400px;}
+.image{position:relative; top:25px; right:5px;}
+
+.a-reset{color:#bfbfbf}
+.a-reset:hover{color:#ffc107}
+
+.border-color{border:1px solid #ffc107;}
+.hover-bottom{border-bottom:1px solid #bfbfbf;}
+.cart-image--complete{background-color:#ffc107; border-radius:50px; width:300px; height:300px; margin-left: 520px;}
+
+.form-giftcode{border-bottom:0px solid black !important;}

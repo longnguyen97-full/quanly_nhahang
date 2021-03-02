@@ -1,0 +1,25 @@
+/* USER SIGN-IN */
+.sign-in--form {
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
+    line-height: 50px;
+}
+
+.title {
+    margin-left: 400px;
+}
+
+.p-15 {
+    padding: 15px;
+}
+
+.modal-content {
+    background-color: #151111;
+}
+.modal-footer button {
+    background-color: #c49b63;
+}
+.modal-footer button:hover {
+    background-color: #c59756;
+}

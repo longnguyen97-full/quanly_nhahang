@@ -1,0 +1,111 @@
+/*DASHBOARD*/
+.cover {
+    border-radius: 3px;
+    background-color: #fff;
+    box-shadow: 0 0 0 1px rgba(63,63,68,.05),0 1px 3px 0 rgba(63,63,68,.15);
+    /* margin: 15px; */
+}
+
+.vertical-line {
+    border-right: 1px solid #ccc;
+}
+
+.header {
+    border-bottom: 1px dashed #ccc;
+    margin-top: 20px;
+    color: #5a5c69;
+}
+
+.header-without_coverbot {
+    margin-top: 20px;
+    padding-bottom: 10px;
+    color: #5a5c69;
+}
+
+.content {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #5a5c69;
+}
+
+.space-top-bottom {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.fa-coins, .fa-store, .overview-user, .fa-clipboard-check, .fa-check-circle, .fa-shipping-fast, .fa-ban {
+    font-size: 35px;
+}
+
+.cover-order {
+    border: 1px solid #2C92FE;
+    border-radius: 5px;
+    padding: 10px;
+    height: 120px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: -8px;
+    text-align: center;
+    line-height: 35px;
+}
+
+.article {
+    margin-left: 12px;
+}
+
+.article-child {
+    padding-left: 10px;
+}
+
+.article-item {
+    width: 100%;
+}
+
+.shape {
+    border-radius: 35px;
+    background-color: #cccccc;
+}
+
+/*SIDEBAR*/
+#accordionSidebar {
+    transition: 0.5s;
+}
+
+/* other */
+.padding-tlbr {
+    padding: 20px;
+}
+
+.scroll-to-top .fa-angle-up::before {
+    line-height: 2.5;
+}
+
+/* green and red dot */
+.circle_ {
+    padding: 10px 10px;
+    height: 2px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 2px;
+    box-shadow: 0 0 0 1px rgba(63,63,68,.05),0 1px 3px 0 rgba(63,63,68,.15);
+}
+._green {
+    background: green;
+}
+
+._red {
+    background: red;
+}
+
+.textbox-link {
+    width: 100px;
+    border: none;
+    border-bottom: 1px dashed #ccc;
+}
+
+.checkbox-tick {display: none;}
+
+.text-autosave {color: #e74a3b; display: none;}
+
+.add_new_show {display: none;}
